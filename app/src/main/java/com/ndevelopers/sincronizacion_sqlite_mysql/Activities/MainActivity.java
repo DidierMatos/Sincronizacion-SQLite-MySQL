@@ -1,7 +1,9 @@
-package com.ndevelopers.sincronizacion_sqlite_mysql;
+package com.ndevelopers.sincronizacion_sqlite_mysql.Activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.ndevelopers.sincronizacion_sqlite_mysql.R;
 
 public class MainActivity extends AppCompatActivity {
 
